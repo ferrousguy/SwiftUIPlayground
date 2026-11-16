@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftUIPlaygroundApp: App {
   var body: some Scene {
     WindowGroup {
-      AirplaneTrips()
+//      FocusStateView(viewModel: ViewModel())
+      SearchableFixView()
     }
   }
 }

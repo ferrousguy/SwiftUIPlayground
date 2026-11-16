@@ -1,0 +1,24 @@
+{
+  "originHash" : "de8dc406eedb321273fceb95cef90a90bfb14c3e1e2053dc4b75da2be712bc2d",
+  "pins" : [
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-syntax.git",
+      "state" : {
+        "revision" : "0687f71944021d616d34d922343dcef086855920",
+        "version" : "600.0.1"
+      }
+    },
+    {
+      "identity" : "view-configurable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/grindrllc/view-configurable",
+      "state" : {
+        "revision" : "50721fcf8cc95119b12a10102ba748a4f317d49c",
+        "version" : "0.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
